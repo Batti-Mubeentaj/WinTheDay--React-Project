@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Batti-Mubeentaj.github.io/WinTheDay--React-Project"
+  "homepage": "https://Batti-Mubeentaj.github.io/WinTheDay--React-Project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,6 +12,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
+
   "dependencies": {
     "react": "^19.2.7",
     "react-dom": "^19.2.7"
